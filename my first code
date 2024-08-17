@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" href="style.css">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAST FOODS</title>
+</head>
+<body>
+    <h1>DANIEL'S RESTARUNT</h1>
+    <h2>MENU</h2>
+    <H3>BREAKFAST</H3>
+    
+    <ul>
+       <li>Dosa</li> 
+
+       <li>Itly</li>
+       <Li>Pongal</Li>
+    </ul>
+    <h3>LUNCH</h3>
+    <ul>
+        <li>Chicken Biryani</li>
+        <li>Mutton Biryani</li>
+        <li>Egg Biryani</li>
+    </ul>
+    <H3>DINNER</H3>
+    <ul>
+        <lI>Chicken Rice</lI>
+        <li> chicken thantoori
+        </li>
+    </ul>
+    <div class="navbar">
+        <nav>
+        <a href= "About.html" target="_blank">About</a>
+        <a href="Home.html"target="_blank">Home</a>
+        <a href="contact.html"target="_blank">contact</a>
+        </nav>
+    </div>
+ 
+
+    
+</body>
+</html>
