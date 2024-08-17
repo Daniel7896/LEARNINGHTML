@@ -1,0 +1,16 @@
+body{
+    background-color: red;
+}
+div{
+    text-align: center;
+    color: honeydew;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    ;
+    text-decoration: underline;
+}
+nav{
+    float:right;
+    display: block;
+    color: white;
+    
+}
